@@ -2,6 +2,7 @@
 ## 	**With Linewize, pages are _still_ blocked and will kick you to a Wi-fi selection screen, but teachers can't see your screen.**
 > [!WARNING]
 > Use Clevify carefully. If your teacher does not see your screen, but sees you on your Chromebook, suspicion may be raised.
+
 > [!IMPORTANT]
 > Clever badge single sign-on MUST be applied by your district.
 
