@@ -2,8 +2,9 @@
 ## 	**With Linewize, pages are _still_ blocked and will kick you to a Wi-fi selection screen, but teachers can't see your screen.**
 > [!WARNING]
 > Use Clevify carefully. If your teacher does not see your screen, but sees you on your Chromebook, suspicion may be raised.
-> > [!IMPORTANT]
+> [!IMPORTANT]
 > Clever badge single sign-on MUST be applied by your district.
+
 > ## Steps
 > 1. Turn your Chromebook on.
 > 2. When you see the screen to scan your Clever badge, click "Back to sign in" (NOT "Enter Google account details") The wording may be different.
