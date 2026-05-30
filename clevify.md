@@ -10,7 +10,7 @@
 > 1. Turn your Chromebook on.
 > 2. When you see the screen to scan your Clever badge, click "Back to sign in" (NOT "Enter Google account details") The wording may be different.
 > 3. Click on Google.
-> 4. Enter the email \google@d11.org\.
+> 4. Enter the email google@d11.org.
 > 5. Complete the captcha.
 > 6. Click on "More sign-in options" when redirected to a Microsoft login page.
 > 7. Click on GitHub.
