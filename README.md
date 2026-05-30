@@ -1,4 +1,4 @@
 # Photons Chromesploits
 A list of ChromeOS exploits for kernver 7.
 # Self-discovered/made exploits
-[Clevify](placeholder)
+[Clevify](clevify.md)
