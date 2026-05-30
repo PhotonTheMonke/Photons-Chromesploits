@@ -1,5 +1,5 @@
 # Clevify
-## 	**With Linewize, pages are _still_ blocked and will kick you to a Wi-fi selection screen, but teachers can't see your screen.**
+## 	**With Linewize, if Vercel is _blocked_ (Vercel is nessecary for hosting the proxy) you will get kicked to a Wi-fi selection screen.**
 > [!WARNING]
 > Use Clevify carefully. If your teacher does not see your screen, but sees you on your Chromebook, suspicion may be raised.
 
@@ -18,5 +18,5 @@
 > 9. Scroll down and click on "Status"
 > 10. Click on GitHub.com.
 > 11. Search for this repo again and go back to these steps.
-> 12. Go to the [Clevify helper] (placeholder)
+> 12. Go to the [Clevify Interstellar host](https://interstellar-clevify.vercel.app/)
 > 13. Have fun!
